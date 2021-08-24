@@ -1,0 +1,11 @@
+{
+  "name": "redux-intro-noreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reducer-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "la",
+  "license": "MIT"
+}
